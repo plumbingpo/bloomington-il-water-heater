@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bloomingtonwaterheater.com/sitemap.xml
